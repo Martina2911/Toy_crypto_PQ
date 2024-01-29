@@ -4,11 +4,11 @@ This repository contains a C implementation of a toy version of the Kyber Post-Q
 
 Files:
 
-toy.h [Header file containing macro definitions for the toy cryptosystem.]
+toy.h [Header file containing macro definitions for the toy cryptosystem]
 
-toy.c [Main source file implementing the toy cryptosystem.]
+toy.c [Main source file implementing the toy cryptosystem]
 
-main.c [To run the code.]
+main.c [To run the code]
 
 Implementation Details:
 
